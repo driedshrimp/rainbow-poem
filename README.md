@@ -1,2 +1,2 @@
 # rainbow-poem
-a poem about rainbow
+A poem about colorful rainbow.
